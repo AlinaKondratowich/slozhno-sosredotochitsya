@@ -20,8 +20,8 @@
   --circle-color: #fff1f7;
   --button-color: #353430;
   --button-color-hover: #32312d66;
-  --title-color: #FFC2E6; 
-  --title-decor: #FF0070
+  --title-color: #ffc2e6;
+  --title-decor: #ff0070;
 }
 
 @media (prefers-color-scheme: light) {
@@ -37,7 +37,7 @@
     --circle-color: #fff1f7;
     --button-color: #353430;
     --button-color-hover: #32312d66;
-    --title-color: #FFC2E6; 
-    --title-decor: #FF0070
+    --title-color: #ffc2e6;
+    --title-decor: #ff0070;
   }
 }
